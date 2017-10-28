@@ -1,4 +1,4 @@
-﻿"Portraits"
+"Portraits"
 {
 	"Version"		"1"
 	"PreferModelNames"		"1"
